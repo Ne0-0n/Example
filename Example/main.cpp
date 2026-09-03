@@ -1,5 +1,9 @@
 #include <iostream>
 int main(){
-	std::cout << "Hello world" <<std::endl;
+	double a, h, s;
+	std::cin >> a >> h;
+	s = 0.5 * a * h;
+	std::cout << s << std::endl;
+
 	return 0;
 }
