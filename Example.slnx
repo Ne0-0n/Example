@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Example/Example.vcxproj" Id="d5e80395-d8d0-457c-b64c-3a2a032ca8f1" />
+  <Project Path="Gtests/Gtests.vcxproj" Id="6577d11c-c81a-4985-9746-ff9434d71d3d" />
 </Solution>
